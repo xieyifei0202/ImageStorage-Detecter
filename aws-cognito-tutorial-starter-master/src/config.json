@@ -1,0 +1,15 @@
+{
+  "api": { 
+    "invokeUrl": "https://6ifnsr2wii.execute-api.us-east-1.amazonaws.com/prod"
+  },
+  "cognito": {
+    "REGION": "us-east-1",
+    "USER_POOL_ID": "us-east-1_AN4S3NnuC",
+    "APP_CLIENT_ID": "7q4e557s1ttdsfrn1fn4m9jsic"
+  },
+  "s3":{
+    "accessKeyId": "ASIASJWQ42I52SGGEC7D",
+    "secretAccessKey": "GP2fNmaSTQ7WnP4PmBZJabVs2PpPL3b+i+nX5gCl",
+    "Bucket": "yolov-pack"
+  }
+}
